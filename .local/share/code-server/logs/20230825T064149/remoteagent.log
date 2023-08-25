@@ -1,0 +1,1 @@
+[2023-08-25 06:41:52.996] [main] [error] /home/coder/project/.extenstion {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/home/coder/project/.extenstion"}

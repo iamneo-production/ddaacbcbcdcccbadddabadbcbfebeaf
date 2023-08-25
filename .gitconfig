@@ -1,0 +1,5 @@
+[user]
+	email = techadmin@iamneo.ai
+	name = Iamneo
+[init]
+	defaultBranch = main
